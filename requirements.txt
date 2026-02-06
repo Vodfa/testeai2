@@ -1,0 +1,5 @@
+# Runtime
+PySide6==6.7.2
+
+# Build
+pyinstaller==6.10.0
